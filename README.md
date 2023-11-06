@@ -1,6 +1,6 @@
 # Portfolio #
 
-Portfolio Website SRS 
+Portfolio Website SRS
 1. Introduction
 1.1 Purpose
 The purpose of this SRS is to define the requirements for a portfolio website built using React. This website will serve as a platform for the owner to showcase their skills, projects, and personal information.
